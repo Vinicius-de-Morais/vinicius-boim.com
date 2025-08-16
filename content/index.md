@@ -4,7 +4,7 @@ date = "2025-08-16"
 tags = ["home"]
 description = "Curriculum Vitae of Vinicius de Morais Boim dos Santos"
 +++
-
+ 
 Junior Software Developer with 4+ years of experience in backend and full-stack development. Expertise in optimizing system performance, scaling solutions, and delivering robust and scalable systems. Strong background in Dynamics 365, SAP, .NET, Rust, and modern web/mobile technologies, with proven achievements in hackathons and academic competitions.
 
 ## Education
