@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vinicius Boim</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Vinicius Boim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/posts/curriculum/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/curriculum/</guid>
+      <description>&lt;h1 id=&#34;vinicius-de-morais-boim-dos-santos&#34;&gt;Vinicius de Morais Boim dos Santos&lt;/h1&gt;&#xA;&lt;h2 id=&#34;profile&#34;&gt;Profile&lt;/h2&gt;&#xA;&lt;p&gt;Experienced professional with a strong background in [insert your main field, e.g., software development, engineering, etc.]. Demonstrated expertise in [key skills/technologies], with a proven track record of delivering results in diverse environments.&lt;/p&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;[Degree]&lt;/strong&gt;, [Institution], [Year]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[Additional details, honors, or relevant coursework]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;[Job Title]&lt;/strong&gt;, [Company], [Location] — [Start Year] to [End Year or Present]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[Brief description of responsibilities and achievements]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;[Job Title]&lt;/strong&gt;, [Company], [Location] — [Start Year] to [End Year or Present]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[Brief description of responsibilities and achievements]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[Skill 1]&lt;/li&gt;&#xA;&lt;li&gt;[Skill 2]&lt;/li&gt;&#xA;&lt;li&gt;[Skill 3]&lt;/li&gt;&#xA;&lt;li&gt;[Add more as needed]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;certifications&#34;&gt;Certifications&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[Certification Name], [Issuing Organization], [Year]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[Language 1] ([Proficiency])&lt;/li&gt;&#xA;&lt;li&gt;[Language 2] ([Proficiency])&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;projects--publications&#34;&gt;Projects &amp;amp; Publications&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;[Project/Publication Title]&lt;/strong&gt; — [Short description or link]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: [your.email@example.com]&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn: [Your LinkedIn URL]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;This page was generated from the curriculum vitae of Vinicius de Morais Boim dos Santos.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

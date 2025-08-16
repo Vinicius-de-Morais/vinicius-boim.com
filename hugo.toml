@@ -1,0 +1,27 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Vinicius Boim'
+theme = 'hugo-theme-m10c'
+
+[params]
+  author = "Vinicius Boim"
+  description = "Welcome to my personal website! Here you can find my professional background and projects. Feel free to explore."
+  avatar = "https://avatars.githubusercontent.com/u/83669073?v=4"
+
+[[params.social]]
+  icon = "brand-github"
+  name = "My Github"
+  url = "https://github.com/Vinicius-de-Morais"
+
+[[params.social]]
+  icon = "brand-linkedin"
+  name = "My Linkedin"
+  url = "https://www.linkedin.com/in/vinicius-boim"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+    post = "curriculum"

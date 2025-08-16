@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Vinicius Boim</title>
+    <link>https://example.org/tags/home/</link>
+    <description>Recent content in Home on Vinicius Boim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vinicius de Morais Boim dos Santos</title>
+      <link>https://example.org/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/</guid>
+      <description>&lt;p&gt;Junior Software Developer with 4+ years of experience in backend and full-stack development. Expertise in optimizing system performance, scaling solutions, and delivering robust and scalable systems. Strong background in Dynamics 365, SAP, .NET, Rust, and modern web/mobile technologies, with proven achievements in hackathons and academic competitions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bachelor of Software Engineering&lt;/strong&gt;, Unisenai – Industry University, July 2022 – August 2026&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Relevant Coursework: Data Structures, Software Architecture, Cyber Security, Machine Learning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Programming:&lt;/strong&gt; C#, .NET, Rust, JavaScript, TypeScript, C/C++, PHP, Python, ABAP&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Web:&lt;/strong&gt; HTML, CSS, React.js, Node.js, JQuery, Prisma, TypeORM&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mobile:&lt;/strong&gt; Flutter, React Native, SQLite&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Enterprise Tools:&lt;/strong&gt; Dynamics 365, SAP (SD, MM, FI), Microsoft SSIS&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;DevOps &amp;amp; Databases:&lt;/strong&gt; Git, Docker, Heroku, Unix/Bash, PostgreSQL, MongoDB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;projects--publications&#34;&gt;Projects &amp;amp; Publications&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Field-Service (Volkswagen):&lt;/strong&gt; Customized Dynamics 365 Field Service with .NET plugins and JS extensions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Web-Radio:&lt;/strong&gt; Web app streaming music on a schedule using Rust and FFmpeg. &lt;a href=&#34;https://github.com/Vinicius-de-Morais/web-radio&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Small-Talk:&lt;/strong&gt; TCP/IP chat server in Rust with JSON-based headers and channel messaging. &lt;a href=&#34;https://github.com/Vinicius-de-Morais/small-talk&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;NAV-IA:&lt;/strong&gt; AI-powered system for generating lesson plans using Node.js, TypeORM, and PostgreSQL. &lt;a href=&#34;https://github.com/Vinicius-de-Morais/Jornada-Backend&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Junior Software Developer&lt;/strong&gt;, Atos, Londrina, PR — Aug 2023 to Present&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
